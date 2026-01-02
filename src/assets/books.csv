@@ -1,0 +1,51 @@
+book_id,title,author,genre,available_copies,total_copies
+B001,The Immortals of Meluha,Amish Tripathi,Mythology,3,6
+B002,The God of Small Things,Arundhati Roy,Literary Fiction,1,4
+B003,Malgudi Days,R.K. Narayan,Literary Fiction,4,5
+B004,The White Tiger,Aravind Adiga,Social Fiction,0,3
+B005,2 States,Chetan Bhagat,Romance,5,7
+B006,The Palace of Illusions,Chitra Banerjee Divakaruni,Mythology,2,4
+B007,India After Gandhi,Ramachandra Guha,History,4,5
+B008,Five Point Someone,Chetan Bhagat,College Life,3,6
+B009,Train to Pakistan,Khushwant Singh,Historical Fiction,1,3
+B010,Midnight's Children,Salman Rushdie,Literary Fiction,2,4
+B011,The Guide,R.K. Narayan,Literary Fiction,5,5
+B012,Raavan: Enemy of Aryavarta,Amish Tripathi,Mythology,3,5
+B013,One Indian Girl,Chetan Bhagat,Romance,6,8
+B014,A Suitable Boy,Vikram Seth,Literary Fiction,1,3
+B015,The Blue Umbrella,Ruskin Bond,Children's,7,7
+B016,The Namesake,Jhumpa Lahiri,Literary Fiction,2,4
+B017,The Inheritance of Loss,Kiran Desai,Literary Fiction,1,3
+B018,Revolution 2020,Chetan Bhagat,College Life,4,6
+B019,The Rozabal Line,Ashwin Sanghi,Thriller,3,5
+B020,The Krishna Key,Ashwin Sanghi,Mythological Thriller,2,4
+B021,Chanakya's Chant,Ashwin Sanghi,Historical Thriller,3,5
+B022,Sita: Warrior of Mithila,Amish Tripathi,Mythology,4,6
+B023,The Alchemist,Paulo Coelho,Self-Help,8,10
+B024,Rich Dad Poor Dad,Robert Kiyosaki,Finance,6,8
+B025,Atomic Habits,James Clear,Self-Help,7,9
+B026,The Monk Who Sold His Ferrari,Robin Sharma,Self-Help,5,7
+B027,Wings of Fire,A.P.J. Abdul Kalam,Autobiography,6,8
+B028,Ignited Minds,A.P.J. Abdul Kalam,Inspirational,4,6
+B029,The Discovery of India,Jawaharlal Nehru,History,2,4
+B030,An Era of Darkness,Shashi Tharoor,History,3,5
+B031,The Argumentative Indian,Amartya Sen,Non-Fiction,2,4
+B032,The Wonder That Was India,A.L. Basham,History,1,3
+B033,The Hindus,Wendy Doniger,Religion,1,2
+B034,The Bhagavad Gita,Eknath Easwaran,Philosophy,9,10
+B035,The Ramayana,R.K. Narayan,Mythology,5,7
+B036,Mahabharata,C. Rajagopalachari,Mythology,3,5
+B037,The Upanishads,Eknath Easwaran,Philosophy,4,6
+B038,Autobiography of a Yogi,Paramahansa Yogananda,Spirituality,6,8
+B039,The Art of Happiness,Dalai Lama,Self-Help,5,7
+B040,The Power of Now,Eckhart Tolle,Self-Help,4,6
+B041,The Secret,Rhonda Byrne,Self-Help,7,9
+B042,Think and Grow Rich,Napoleon Hill,Finance,5,7
+B043,How to Win Friends,Dale Carnegie,Self-Help,6,8
+B044,The 7 Habits,Stephen Covey,Self-Help,4,6
+B045,The Intelligent Investor,Benjamin Graham,Finance,2,4
+B046,Zero to One,Peter Thiel,Entrepreneurship,3,5
+B047,The Lean Startup,Eric Ries,Business,4,6
+B048,Sapiens,Yuval Noah Harari,History,5,7
+B049,The Silent Patient,Alex Michaelides,Thriller,6,8
+B050,The Da Vinci Code,Dan Brown,Thriller,4,6
